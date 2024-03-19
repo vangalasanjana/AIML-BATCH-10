@@ -5,4 +5,4 @@
 4.[LAB-04](https://github.com/vangalasanjana/AIML-BATCH-10/blob/main/AIML_LAB_04.ipynb)
 5.[LAB-05](https://github.com/vangalasanjana/AIML-BATCH-10/blob/main/AIML_LAB_05.ipynb)
 6.[LAB-06](https://github.com/vangalasanjana/AIML-BATCH-10/blob/main/AIML_LAB_06.ipynb)
-7.[LAB-07](https://github.com/vangalasanjana/AIML-BATCH-10/edit/main/README.md)
+7.[LAB-07](https://github.com/vangalasanjana/AIML-BATCH-10/blob/main/AIML_LAB_07.ipynb)
