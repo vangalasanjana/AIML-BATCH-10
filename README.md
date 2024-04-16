@@ -7,3 +7,4 @@
 6.[LAB-06](https://github.com/vangalasanjana/AIML-BATCH-10/blob/main/AIML_LAB_06.ipynb)
 7.[LAB-07](https://github.com/vangalasanjana/AIML-BATCH-10/blob/main/AIML_LAB_07.ipynb)
 8.[LAB-08](https://github.com/vangalasanjana/AIML-BATCH-10/blob/main/AIML_LAB_08.ipynb)
+9.[LAB-09](https://github.com/vangalasanjana/AIML-BATCH-10/blob/main/AIML_LAB_09.ipynb)
